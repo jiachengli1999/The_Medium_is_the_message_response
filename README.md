@@ -1,1 +1,4 @@
 # The_Medium_is_the_message_response
+The medium can have impact on more people in that it changes how we behave.  
+Marshall McLuhan describes a lightbulb as a medium without content. It brings
+light to society, and allows us to see in the night. The invention of the light bulb allows us to travel safer at night. It has impacted our environment and our behavior and activities. However, the content can be more important depending on the individual. Although the lightbulb by itself does not have content, we can give it meaning. In the film, "Parasite," the lightbulb was used to deliver morse code messages. This is meaningless to people who don't know morse code, but it is significant to people who do. Since the lightbulb is a main source of communication, I would say that the context of the lightbulb is more important than the medium. The medium could be anything as long as the morse code can be made. 

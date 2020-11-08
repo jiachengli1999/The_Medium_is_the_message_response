@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+ 
+#lightbulb_img{
+    visibility: visible;
+}
+
+.button-section{
+    width: 100%;
+    /* border: 1px solid white; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#button-text{
+    font-size: 80px;
+}
+#btn{
+    border: 1px solid white;
+    border-radius: 50%;
+    min-width: 50px;
+    min-height: 50px;
+    background: red;
+}
