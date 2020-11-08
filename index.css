@@ -5,7 +5,7 @@ body{
 }
  
 #lightbulb_img{
-    visibility: visible;
+    visibility: hidden;
 }
 
 .button-section{
