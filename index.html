@@ -6,20 +6,39 @@
         <link rel="stylesheet" href="index.css">
         <script src="index.js"></script>
     </head>
-    <body>
-        <!-- -the medium is more important than the content 
-        -today: the medium, social media, changes the way we think and behave 
-        -for example- what we post online matters- deleting may not change much since it can be stored
-            -hence, we have to be careful on what we post- this can result in job losses etc. 
-            -likewise, everything is monitored now so we also have to be careful on what we do outside
-                -China for example, monitoring its citizens and giving them a score
-        -The medium can have impact on more people in that it changes how we behave, 
-        but the content can be more important depending on the individual 
-            -parasite- light flickering  -->
-        <img id='lightbulb_img' src='lightbulb.PNG' height='100%'/>
-        <div class="button-section">
-            <h1 id='button-text'>off</h1>
-            <label id='btn' onclick="toggleImage()"></label>
+    <body id='body'>
+        <div id='content-section'>
+            <header>The Medium is the Message Response</header>
+            <p>
+                Marshall McLuhan argues that the medium is more important than the content.
+                Despite not living during the times of social media, his argument fits well with 
+                the current era. For example, social media surrounds us today, and it is a medium 
+                that provides us with a variety of content. What makes social media important is that 
+                it has impacted everyone socially and economically. Job hunting has moved to online 
+                applications, and we connect with people through apps. What we post today also matters 
+                significantly, as deleting them online may not have much of an effect. Everything
+                that is sent online is documented. Likewise, everything is monitored now so we also have to 
+                be careful on our actions. China for example, monitors its citizens and gives them a score.
+                Hence, the medium influences our actions. 
+                <br>
+                <br>
+                However, the content can be more important depending on the individual. 
+                Marshall McLuhan describes a lightbulb as a medium without content. It brings
+                light to society, and allows us to see in the night. Although the lightbulb 
+                by itself does not have content, we can give it meaning. In the film, "Parasite," the lightbulb 
+                was used to deliver morse code messages. This is meaningless to people who don't know morse code, 
+                but it is significant to people who do. Since the lightbulb is a main source of communication, I 
+                would say that the context of the lightbulb is more important than the medium. The medium could be 
+                anything as long as the morse code can be made. 
+            </p>
+            <label onclick="displayLight()" class='next-btn'>Light Bulb Demo</label>
+        </div>
+        <div id='light-section'>
+            <img id='lightbulb_img' src='lightbulb.PNG' />
+            <div class="button-section">
+                <h1 id='button-text'>off</h1>
+                <label id='btn' onclick="toggleImage()"></label>
+            </div>
         </div>
     </body>
 </html>
